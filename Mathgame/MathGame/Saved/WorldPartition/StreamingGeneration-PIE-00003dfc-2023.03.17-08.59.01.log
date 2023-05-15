@@ -1,0 +1,96 @@
+[+] Containers:
+ |- [+] Container: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0BC3ADF1457667266FB261ACC2FB936F BaseClass:/Game/StarterContent/Props/Facy-Door.Facy-Door_C NativeClass:/Script/Engine.Actor Name:Facy-Door_C_UAID_309C23D1F6A62F7001_1696267703 Label:Facy-Door SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3366.459 Y=4629.750 Z=829.500), Max=(X=3512.541 Y=4654.594 Z=1079.550) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:117D89EA41818C8FB9CB7C89FAD11FB4 BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1427656813 Label:Wall-Mini8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2814.000 Y=4599.625 Z=827.750), Max=(X=3314.000 Y=4618.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:1B0F3E144429F345A187C0885909AA35 BaseClass:/Game/StarterContent/Props/Facy-Door.Facy-Door_C NativeClass:/Script/Engine.Actor Name:Facy-Door_C_UAID_309C23D1F6A62F7001_2052744704 Label:Facy-Door2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3365.459 Y=4235.406 Z=827.500), Max=(X=3511.541 Y=4260.250 Z=1077.550) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:234A45B448562C013E785F8FB5AAEBE4 BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1197796804 Label:Wall-Mini SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2314.000 Y=4270.625 Z=827.750), Max=(X=2814.000 Y=4289.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:296E09A04D4D5573BD3C91820E333804 BaseClass:/Game/StarterContent/Props/Roof-Light.Roof-Light_C NativeClass:/Script/Engine.Actor Name:Roof-Light_C_UAID_309C23D1F6A68F6F01_1611824545 Label:Roof-Light SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4015.000 Y=4400.000 Z=1152.812), Max=(X=4115.000 Y=4500.000 Z=1187.188) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3406.787 Y=4416.176 Z=899.114), Max=(X=3486.787 Y=4496.176 Z=1083.114) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:3CEFA2FF49CDE3E784875FA26EFCA2EE BaseClass: NativeClass:/Script/Engine.RectLight Name:RectLight_UAID_309C23D1F6A68F6F01_1766423546 Label:RectLight3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1815.000 Y=3450.000 Z=165.000), Max=(X=3815.000 Y=5450.000 Z=2165.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:5A8AFD8343F9C33E0A2B66A311AAE342 BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1500171817 Label:Wall-Mini12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3512.750 Y=4599.625 Z=827.750), Max=(X=3575.250 Y=4618.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:5C909DC54567C5B290CB228AA105342D BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1477848816 Label:Wall-Mini11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4064.000 Y=4599.625 Z=827.750), Max=(X=4564.000 Y=4618.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:75012FE94DF804D4B9B0ACA61288F705 BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1304632807 Label:Wall-Mini2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2814.000 Y=4270.625 Z=827.750), Max=(X=3314.000 Y=4289.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:845AC5BB42317D702A31949979E94E5F BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1438363814 Label:Wall-Mini9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3302.750 Y=4599.625 Z=827.750), Max=(X=3365.250 Y=4618.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:8C2BD5B3421BA36295C123B1DB2EB75F BaseClass: NativeClass:/Script/Engine.RectLight Name:RectLight_UAID_309C23D1F6A6EF6E01_1724587388 Label:RectLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2945.000 Y=-880.000 Z=-935.000), Max=(X=1255.000 Y=3320.000 Z=3265.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:95BE7F614138AC045E310785D384BE1B BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_309C23D1F6A63F6F01_1662515465 Label:SK_Mannequin_PhysicsAsset SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4053.981 Y=4462.771 Z=833.574), Max=(X=4198.089 Y=4500.056 Z=1020.456) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:B009AB35486A80EAAFF397BCB02FBD3C BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1319681808 Label:Wall-Mini3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3302.750 Y=4270.625 Z=827.750), Max=(X=3365.250 Y=4289.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:B4C7C08845DC49CCB7E27896096D13AA BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1379078811 Label:Wall-Mini6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3512.750 Y=4270.625 Z=827.750), Max=(X=3575.250 Y=4289.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:BF3A0F0249F17DBB084DCF9746409808 BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1460576815 Label:Wall-Mini10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3564.000 Y=4599.625 Z=827.750), Max=(X=4064.000 Y=4618.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:C002A844485E23C8D56BEBB694768F01 BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1356451810 Label:Wall-Mini5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4064.000 Y=4270.625 Z=827.750), Max=(X=4564.000 Y=4289.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:CBD00CF344947DF11E26359E9CDBA762 BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1402569812 Label:Wall-Mini7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2314.000 Y=4599.625 Z=827.750), Max=(X=2814.000 Y=4618.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:CBF6D7634A030B9D185233B5D2EE2D49 BaseClass: NativeClass:/Script/Engine.RectLight Name:RectLight_UAID_309C23D1F6A63F6F01_1865286466 Label:RectLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3065.000 Y=3450.000 Z=165.000), Max=(X=5065.000 Y=5450.000 Z=2165.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:F29DA99A4EC236210058A9A63777FCD4 BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1348642809 Label:Wall-Mini4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3564.000 Y=4270.625 Z=827.750), Max=(X=4064.000 Y=4289.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:F3DAD98A43F61DD09074F58817B072F8 BaseClass:/Game/StarterContent/Props/Roof-Light.Roof-Light_C NativeClass:/Script/Engine.Actor Name:Roof-Light_C_UAID_309C23D1F6A68F6F01_1879090547 Label:Roof-Light2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2765.000 Y=4400.000 Z=1152.812), Max=(X=2865.000 Y=4500.000 Z=1187.188) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:B009AB35486A80EAAFF397BCB02FBD3C BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1319681808 Label:Wall-Mini3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3302.750 Y=4270.625 Z=827.750), Max=(X=3365.250 Y=4289.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:8C2BD5B3421BA36295C123B1DB2EB75F BaseClass: NativeClass:/Script/Engine.RectLight Name:RectLight_UAID_309C23D1F6A6EF6E01_1724587388 Label:RectLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-2945.000 Y=-880.000 Z=-935.000), Max=(X=1255.000 Y=3320.000 Z=3265.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:5A8AFD8343F9C33E0A2B66A311AAE342 BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1500171817 Label:Wall-Mini12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3512.750 Y=4599.625 Z=827.750), Max=(X=3575.250 Y=4618.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:75012FE94DF804D4B9B0ACA61288F705 BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1304632807 Label:Wall-Mini2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2814.000 Y=4270.625 Z=827.750), Max=(X=3314.000 Y=4289.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:BF3A0F0249F17DBB084DCF9746409808 BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1460576815 Label:Wall-Mini10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3564.000 Y=4599.625 Z=827.750), Max=(X=4064.000 Y=4618.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:5C909DC54567C5B290CB228AA105342D BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1477848816 Label:Wall-Mini11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4064.000 Y=4599.625 Z=827.750), Max=(X=4564.000 Y=4618.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:CBD00CF344947DF11E26359E9CDBA762 BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1402569812 Label:Wall-Mini7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2314.000 Y=4599.625 Z=827.750), Max=(X=2814.000 Y=4618.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:117D89EA41818C8FB9CB7C89FAD11FB4 BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1427656813 Label:Wall-Mini8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2814.000 Y=4599.625 Z=827.750), Max=(X=3314.000 Y=4618.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:F3DAD98A43F61DD09074F58817B072F8 BaseClass:/Game/StarterContent/Props/Roof-Light.Roof-Light_C NativeClass:/Script/Engine.Actor Name:Roof-Light_C_UAID_309C23D1F6A68F6F01_1879090547 Label:Roof-Light2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2765.000 Y=4400.000 Z=1152.812), Max=(X=2865.000 Y=4500.000 Z=1187.188) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:C002A844485E23C8D56BEBB694768F01 BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1356451810 Label:Wall-Mini5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4064.000 Y=4270.625 Z=827.750), Max=(X=4564.000 Y=4289.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:CBF6D7634A030B9D185233B5D2EE2D49 BaseClass: NativeClass:/Script/Engine.RectLight Name:RectLight_UAID_309C23D1F6A63F6F01_1865286466 Label:RectLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3065.000 Y=3450.000 Z=165.000), Max=(X=5065.000 Y=5450.000 Z=2165.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:B4C7C08845DC49CCB7E27896096D13AA BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1379078811 Label:Wall-Mini6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3512.750 Y=4270.625 Z=827.750), Max=(X=3575.250 Y=4289.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:95BE7F614138AC045E310785D384BE1B BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_309C23D1F6A63F6F01_1662515465 Label:SK_Mannequin_PhysicsAsset SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4053.981 Y=4462.771 Z=833.574), Max=(X=4198.089 Y=4500.056 Z=1020.456) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:234A45B448562C013E785F8FB5AAEBE4 BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1197796804 Label:Wall-Mini SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2314.000 Y=4270.625 Z=827.750), Max=(X=2814.000 Y=4289.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:F29DA99A4EC236210058A9A63777FCD4 BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1348642809 Label:Wall-Mini4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3564.000 Y=4270.625 Z=827.750), Max=(X=4064.000 Y=4289.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:3CEFA2FF49CDE3E784875FA26EFCA2EE BaseClass: NativeClass:/Script/Engine.RectLight Name:RectLight_UAID_309C23D1F6A68F6F01_1766423546 Label:RectLight3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1815.000 Y=3450.000 Z=165.000), Max=(X=3815.000 Y=5450.000 Z=2165.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3406.787 Y=4416.176 Z=899.114), Max=(X=3486.787 Y=4496.176 Z=1083.114) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:845AC5BB42317D702A31949979E94E5F BaseClass:/Game/StarterContent/Props/Wall-Mini.Wall-Mini_C NativeClass:/Script/Engine.Actor Name:Wall-Mini_C_UAID_309C23D1F6A6E06F01_1438363814 Label:Wall-Mini9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3302.750 Y=4599.625 Z=827.750), Max=(X=3365.250 Y=4618.375 Z=853.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:296E09A04D4D5573BD3C91820E333804 BaseClass:/Game/StarterContent/Props/Roof-Light.Roof-Light_C NativeClass:/Script/Engine.Actor Name:Roof-Light_C_UAID_309C23D1F6A68F6F01_1611824545 Label:Roof-Light SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4015.000 Y=4400.000 Z=1152.812), Max=(X=4115.000 Y=4500.000 Z=1187.188) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:0BC3ADF1457667266FB261ACC2FB936F BaseClass:/Game/StarterContent/Props/Facy-Door.Facy-Door_C NativeClass:/Script/Engine.Actor Name:Facy-Door_C_UAID_309C23D1F6A62F7001_1696267703 Label:Facy-Door SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3366.459 Y=4629.750 Z=829.500), Max=(X=3512.541 Y=4654.594 Z=1079.550) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:1B0F3E144429F345A187C0885909AA35 BaseClass:/Game/StarterContent/Props/Facy-Door.Facy-Door_C NativeClass:/Script/Engine.Actor Name:Facy-Door_C_UAID_309C23D1F6A62F7001_2052744704 Label:Facy-Door2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3365.459 Y=4235.406 Z=827.500), Max=(X=3511.541 Y=4260.250 Z=1077.550) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/ThirdPerson/Maps/ThirdPersonMap
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 427 
+
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
